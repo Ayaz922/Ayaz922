@@ -67,15 +67,15 @@ Me
   width: 70px;
   height: 70px;
   position: absolute;
-  top: 178px;
-  left: 120px;
+  top: 175px;
+  left: 128px;
   z-index: -1;
   background: url(http://www.supah.it/dribbble/006/eye.png) no-repeat center;
 }
 .me .eye::before {
   content: '';
-  top: -3px;
-  left: 92px;
+  top: -5px;
+  left: 95px;
 }
 
 .text {
