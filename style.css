@@ -128,13 +128,11 @@ h1{
     background-color: #00B7A1;
 }
 .navbar-nav a:hover {
-    background-color: white;
     border-bottom: 3px solid black;
     
 }
 
 .navbar-nav a:hover{
-
     color: black !important;
 }
 .banner-2{
@@ -163,13 +161,11 @@ li {
     }
     .profile-logo:hover{
         transform: scale(1.2);
-        transition: all ease-in-out 250ms;
       }
      li{
         color:#00B7A1;
      }
 li:hover{
-          color:white;
       }
       .form-inline > * {
         margin:5px 40px;
