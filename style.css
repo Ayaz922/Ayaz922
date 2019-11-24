@@ -149,8 +149,8 @@ h1{
     color: #00B7A1;
 }
 .profile-logo{
-max-width: 10rem;
-max-height: 10rem;
+max-width: 12rem;
+max-height: 12rem;
 border-radius: 50%;
 
 }
@@ -162,7 +162,7 @@ li {
         line-height: 60px;
     }
     .profile-logo:hover{
-        transform: scale(1.2) rotate(360deg);
+        transform: scale(1.2);
         transition: all ease-in-out 250ms;
       }
      li{
