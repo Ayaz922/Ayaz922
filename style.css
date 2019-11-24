@@ -128,8 +128,7 @@ h1{
     background-color: #00B7A1;
 }
 .navbar-nav a:hover {
-    border-bottom: 3px solid black;
-    
+    border-bottom: 0.5px solid black;
 }
 
 .navbar-nav a:hover{
@@ -161,6 +160,7 @@ li {
     }
     .profile-logo:hover{
         transform: scale(1.2);
+        transition: all ease-in-out 250ms;
       }
      li{
         color:#00B7A1;
