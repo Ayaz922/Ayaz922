@@ -1,7 +1,7 @@
 var $wrap = $('.wrapper'),
   $lEye = $('.eye'),
-  lFollowX = 5,
-  lFollowY = 10,
+  lFollowX = 0,
+  lFollowY = 0,
   x = 0,
   y = 0,
   friction = 1 / 12;
